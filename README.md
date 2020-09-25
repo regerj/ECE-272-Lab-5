@@ -33,7 +33,7 @@ And a parser module will be used to create a clock. The clock should have second
 4. The ECE 271 textbook, Digital Design and Computer Architecture by Drs. David and Sarah Harris CH. 4 & 5
 ### 5.5 Procedure:
 #### <div align="center">There are 6 steps to digital logic design</div>
-
+![Design Process Flow](https://github.com/regerj/ECE-272-Lab-4/blob/master/4.1%20Design%20Process.png)
 #### <div align="center">Design Process Figure 5.2: Use this process for designing the final project.</div>
 
 1. Design: The context of the design is established in this step. The context involves defining the inputs, desired outputs, and all the logic required in-between. In this step, all the minimizations and layout are planned for the design entry process. While this step is not always the longest, it should involve the most thought and effort. This typically requires a complete block diagram showing all the logic blocks and the connections between them, often with written explanations of specific functions. 
