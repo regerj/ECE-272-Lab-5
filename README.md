@@ -1,3 +1,5 @@
+_**This lab instruction set is the property of Oregon State University, I claim no credit to these instructions aside from manually formatting it to appear well on .md files, only to my solution to the lab.**_
+
 # ECE 272 Section 5: System Verilog
 ### 5.1 Background Information
 As digital logic designs get complex, it becomes cumbersome to describe logic with schematics. Simplifying logic by hand can take a long time and is prone to human error. Hardware Description Languages describe digital hardware. As time went on and systems like FPGAs were created, Hardware Description Languages began to be used to directly describe the hardware to be implemented.
